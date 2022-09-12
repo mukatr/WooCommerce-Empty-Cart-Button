@@ -1,12 +1,10 @@
+WooCommerce Empty Cart Button which helps you to add Empty Cart button to WooCommerce Pages/Sections using Shortcode only.
 
-Build Status Total Downloads Latest Stable Version License
-
-JobFair is a full full-pledge Job Board application which helps the job seeker to find their job with advance search and employers has the ability to post their job in the regular or premium way.
-
-Server Requirements
-JobFair has a few system requirements. Read More
-
-PHP >= 7.1.3
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
+How to use?
+1. Download the plugin
+2. Upload to your website:
+   - cPanel/ftp: upload downloaded file -> [simple-empty-cart-button-main.zip] to wp-content/plugins
+   - WordPress dashboard: Plugins -> add new
+3. Activate the plugin
+4. Copy this Shortcode [empty_cart_muka] and place it on any page/section
+   Enjoy
