@@ -1,4 +1,4 @@
-WooCommerce Empty Cart Button which helps you to add Empty Cart button to WooCommerce Pages/Sections using Shortcode only.
+WooCommerce Empty Cart Button plugin helps you to add Empty Cart button to WooCommerce Pages/Sections using Shortcode only.
 
 <b>How to use?</b>
 1. Download the plugin
