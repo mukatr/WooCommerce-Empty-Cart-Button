@@ -5,8 +5,8 @@
     Plugin URI: https://github.dev/mukatr/WooCommerce-Empty-Cart-Button
     Description: Plugin to create [Empty Cart button] and place it any where in your website pages/sections
     Version: 1.0
-    Author: muKatr
-    Author URI: https://github.com/mukatr
+    Author: Katr
+    Author URI: https://katr.info
     Requires at least: 5.3
     Tested up to: 6.0.1
     License: GPLv2 or later
